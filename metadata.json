@@ -1,0 +1,6 @@
+{
+  "name": "Binary Evolution Dashboard",
+  "description": "High-fidelity system monitoring for the AEOR Kernel, featuring real-time siphon telemetry, packet trace analysis, and AI-powered log auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
