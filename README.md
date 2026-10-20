@@ -1,5 +1,7 @@
 # WireEntropy: Binary Protocol Optimizer, Compression Benchmarking & Node Telemetry
 
+“A real-time binary protocol and telemetry demo built with TypeScript, React, Node, SQLite, and AI-assisted diagnostics
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-00FF9C.svg?style=flat-square)](LICENSE)
 [![Author: Craig Huckaby](https://img.shields.io/badge/Author-Craig%20Huckaby-blue.svg?style=flat-square)](https://github.com/craighckby-stack)
 [![Node: v20+](https://img.shields.io/badge/Node-v20%2B-green.svg?style=flat-square)](https://nodejs.org)
